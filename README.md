@@ -3,6 +3,8 @@
 ### 📍 **Objective:**
 In this project, I focused on cleaning and analyzing the **Pickaboo Store Ecommerce** dataset to generate key business insights. I performed essential data cleaning tasks such as handling missing values, correcting data types, and removing duplicates. Using **Power BI**, I created various metrics and visualizations to understand business performance and drive informed decision-making. 💡
 
+![image](https://github.com/mih-shanto/-/blob/main/Project/1.png)
+
 ### 🧠 **Key Insights & Learnings:**
 
 - **Sum of Amount & AOV (Average Order Value):**  
